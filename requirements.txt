@@ -1,0 +1,7 @@
+streamlit
+pandas
+joblib
+psutil
+numpy
+plotly
+requests
